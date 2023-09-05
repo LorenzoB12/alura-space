@@ -1,5 +1,5 @@
 # Open The Application on Vercel
-Open [https://alura-space-henna-eta.vercel.app/]([http://localhost:3000](https://alura-space-henna-eta.vercel.app/)) to view it in your browser.
+Open [https://alura-space-henna-eta.vercel.app/](https://alura-space-henna-eta.vercel.app/) to view it in your browser.
 
 ## Available Scripts
 
